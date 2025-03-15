@@ -9,7 +9,7 @@ A simple website showcasing movies across various genres. Built using HTML, CSS,
 
 ## Demo
 
-Experience the live demo [here](https://mahlagha2211.github.io/movieWebpage/).
+Experience the live demo [here](https://mahlagha2211.github.io/movieWebPage/).
 
 ## Installation
 
